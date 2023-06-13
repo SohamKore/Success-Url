@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cancel</title>
+</head>
+<body>
+  <h1>Canceled :(</h1>
+  <p>Your checkout session was canceled</p>
+</body>
+</html>
